@@ -1,3 +1,7 @@
+writable/cache
+writable/debugbar
+writable/session
+writable/log
 # Logs
 logs
 *.log
